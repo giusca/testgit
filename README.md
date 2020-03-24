@@ -1,5 +1,5 @@
 # Module 2
- 
+ # BAD IDEA to change things here, but just a test
 MORE TESTS.
 This contains the files for the CRM application with the relevant updates 
 made in this module. Note that these files are also used for
